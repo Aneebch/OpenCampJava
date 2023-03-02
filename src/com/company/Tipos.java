@@ -35,5 +35,8 @@ public class Tipos {
         Integer num = null;
         Long num1 = 2L;
 
+        int numTel = 612513726;
+
+
     }
 }
