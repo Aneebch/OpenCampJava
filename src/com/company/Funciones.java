@@ -8,10 +8,11 @@ public class Funciones {
         //holaMundo();
 
         /*
-        holaMundo("Alan");
         holaMundo("aneeb");
 
          */
+        holaMundo("Aneeb", "chatha");
+        holaMundo(7);
         System.out.println(sum(5,6));
         String hola = devolverTexto();
         System.out.println(hola);
@@ -22,9 +23,12 @@ public class Funciones {
         System.out.println("Hola Mundo");
     }
 
-    private static void holaMundo(String name) {
+    private static void holaMundo(Integer num) {
+        System.out.println("El numero es : " + num);
+    }
+    private static void holaMundo(String name, String surname) {
         System.out.println("Hola mundo desde un methodo");
-        System.out.println("Hola " + name);
+        System.out.println("Hola " + name + " "+ surname);
     }
 
     private static String devolverTexto() {
