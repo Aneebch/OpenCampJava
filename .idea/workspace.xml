@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PruebaFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Tipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Funciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Operadores" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Operadores" />
+    <configuration name="PruebaFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PruebaFunction" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
@@ -135,10 +135,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Funciones" />
+        <item itemvalue="Application.PruebaFunction" />
         <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.Comentarios" />
         <item itemvalue="Application.ByeWorld" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

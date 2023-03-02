@@ -12,12 +12,12 @@ public class Funciones {
         holaMundo("aneeb");
 
          */
-
+        System.out.println(sum(5,6));
         String hola = devolverTexto();
         System.out.println(hola);
     }
 
-    private static void holaMundo() {
+    public static void holaMundo() {
         System.out.println("Hola mundo desde un methodo");
         System.out.println("Hola Mundo");
     }
@@ -26,10 +26,13 @@ public class Funciones {
         System.out.println("Hola mundo desde un methodo");
         System.out.println("Hola " + name);
     }
+
     private static String devolverTexto() {
         return "Hola";
     }
 
-
+    private static int sum(int num1, int num2) {
+        return num1 + num2;
+    }
 
 }
