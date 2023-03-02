@@ -32,7 +32,7 @@ public class Tipos {
 
         // tipos envoltorio
 
-        integer num = null;
+        Integer num = null;
         Long num1 = 2L;
 
     }
