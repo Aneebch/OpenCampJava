@@ -1,5 +1,7 @@
 package ObjectClass;
 
+import java.util.Objects;
+
 public class Persons {
 
     // Atributes
@@ -69,5 +71,29 @@ public class Persons {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    @Override
+    public String toString() {
+        return "Persons{" +
+                "name='" + name + '\'' +
+                ", firstSurname='" + firstSurname + '\'' +
+                ", secondSurname='" + secondSurname + '\'' +
+                ", dni='" + dni + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Persons persons = (Persons) o;
+        return dni.equals(persons.dni);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(dni);
     }
 }

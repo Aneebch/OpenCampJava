@@ -20,6 +20,6 @@ public class doLoop {
             } else {
                 System.out.println("Number is not correct");
             }
-        } while (incorrect)
+        } while (incorrect);
     }
 }
