@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Herencia/Comercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Calcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/GeoFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Company">
+  <component name="RunManager" selected="Application.Calcul">
     <configuration name="AppPersons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectClass.AppPersons" />
       <module name="Project1.1" />
@@ -79,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herencia.Company" />
+    <configuration name="Calcul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClass.Calcul" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Herencia.*" />
+          <option name="PATTERN" value="AbstractClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estructureControl.MultipleFive" />
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Herencia.Company" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estructureControl.*" />
+          <option name="PATTERN" value="Herencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calcul" />
         <item itemvalue="Application.Company" />
         <item itemvalue="Application.AppPersons" />
         <item itemvalue="Application.doLoop" />
         <item itemvalue="Application.counterNum" />
-        <item itemvalue="Application.MultipleFive" />
       </list>
     </recent_temporary>
   </component>
