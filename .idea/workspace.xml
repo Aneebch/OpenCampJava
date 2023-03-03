@@ -65,9 +65,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IfElse">
-    <configuration name="Comentarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Comentarios" />
+  <component name="RunManager" selected="Application.ForIFLoop">
+    <configuration name="ForIFLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ForIFLoop" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForIFLoop" />
         <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.Funciones" />
         <item itemvalue="Application.PruebaFunction" />
         <item itemvalue="Application.Operadores" />
-        <item itemvalue="Application.Comentarios" />
       </list>
     </recent_temporary>
   </component>
