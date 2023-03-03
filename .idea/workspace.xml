@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructureControl/MultipleFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructureControl/counterNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructureControl/doLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ForIFLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ForIFLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,22 +68,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForIFLoop">
+  <component name="RunManager" selected="Application.doLoop">
     <configuration name="ForIFLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ForIFLoop" />
-      <module name="Project1.1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Funciones" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Operadores" />
+    <configuration name="MultipleFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructureControl.MultipleFive" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="estructureControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PruebaFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.PruebaFunction" />
+    <configuration name="counterNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructureControl.counterNum" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="estructureControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructureControl.doLoop" />
+      <module name="Project1.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estructureControl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.doLoop" />
+        <item itemvalue="Application.counterNum" />
+        <item itemvalue="Application.MultipleFive" />
         <item itemvalue="Application.ForIFLoop" />
         <item itemvalue="Application.IfElse" />
-        <item itemvalue="Application.Funciones" />
-        <item itemvalue="Application.PruebaFunction" />
-        <item itemvalue="Application.Operadores" />
       </list>
     </recent_temporary>
   </component>
