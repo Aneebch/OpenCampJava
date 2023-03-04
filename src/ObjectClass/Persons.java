@@ -2,7 +2,7 @@ package ObjectClass;
 
 import java.util.Objects;
 
-public class Persons {
+public class Persons implements Comparable<Persons> {
 
     // Atributes
     private String name;
@@ -12,11 +12,12 @@ public class Persons {
     private int age;
 
     //Empty Constructor
-    public Persons () {
+    public Persons() {
 
     }
+
     // Copy Constructor
-    public Persons (Persons p) {
+    public Persons(Persons p) {
         this.name = p.name;
         this.firstSurname = p.firstSurname;
         this.secondSurname = p.secondSurname;
@@ -25,7 +26,7 @@ public class Persons {
     }
 
     // constructor parameter
-    public Persons (String name, String firstSurname, String secondSurname, String dni, int age) {
+    public Persons(String name, String firstSurname, String secondSurname, String dni, int age) {
         this.name = name;
         this.firstSurname = firstSurname;
         this.secondSurname = secondSurname;
@@ -89,11 +90,15 @@ public class Persons {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Persons persons = (Persons) o;
-        return dni.equals(persons.dni);
+        if (dni == null) {
+            if (persons.dni != null) return false;
+        } else if (!dni.equals(persons.dni))
+            return false;
+        return true;
     }
 
     @Override
-    public int hashCode() {
-        return Objects.hash(dni);
+    public int compareTo(Persons persons) {
+        return this.age - persons.age;
     }
 }
