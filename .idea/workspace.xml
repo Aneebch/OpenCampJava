@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/CocheSerciceClassicImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/CocheService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/CocheServiceSportImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/interfaces/InterfacesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/CocheHibrido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/CocheHibrido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/PolimorfismoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/PolimorfismoMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,22 +71,9 @@
       <recent name="poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterfacesMain">
+  <component name="RunManager" selected="Application.StringMain">
     <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.CocheMain" />
-      <module name="Project1.1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="poo.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ForLoop" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
@@ -129,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringMain" />
+      <module name="Project1.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="switchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.switchCase" />
       <module name="Project1.1" />
@@ -144,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringMain" />
         <item itemvalue="Application.InterfacesMain" />
         <item itemvalue="Application.PolimorfismoMain" />
         <item itemvalue="Application.CocheMain" />
         <item itemvalue="Application.switchCase" />
-        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
