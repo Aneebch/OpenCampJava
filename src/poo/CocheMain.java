@@ -27,5 +27,8 @@ public class CocheMain {
         CocheElectrico cocheElectrico1 = new CocheElectrico("azul", "alfa", 150.45, "2015",4.99,"Tx9");
 
         System.out.println(cocheElectrico1);
+
+        cocheElectrico1.acelerar(40);
+        System.out.println(cocheElectrico1);
     }
 }
