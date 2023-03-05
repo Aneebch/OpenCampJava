@@ -8,9 +8,11 @@ public class WhileLoop {
 
         int count = 0;
         while(count < 10){
-
-            System.out.println("hello world " + count);
             count++; // condition
+            if(count == 6)
+                break; // rompe el flujo de bucle y sale de bucle.
+                //continue; // salta el valor 6 y coninua a la siguiente iteración
+            System.out.println("hello world " + count);
 
         }
         System.out.println("Final");

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileLoop">
+  <component name="RunManager" selected="Application.ForLoop">
     <configuration name="Calcul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClass.Calcul" />
       <module name="Project1.1" />
@@ -134,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ListPerson" />
         <item itemvalue="Application.DemoOperacion" />
         <item itemvalue="Application.Calcul" />
