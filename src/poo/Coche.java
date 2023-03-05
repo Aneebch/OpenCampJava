@@ -1,6 +1,6 @@
 package poo;
 
-public class Coche {
+public abstract class Coche {
 
     //atributes
     String color;
