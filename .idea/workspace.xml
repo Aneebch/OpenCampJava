@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectClass/ListPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectClass/Persons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectClass/Persons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +65,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListPerson">
-    <configuration name="AppPersons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectClass.AppPersons" />
-      <module name="Project1.1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ForLoop">
     <configuration name="Calcul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClass.Calcul" />
       <module name="Project1.1" />
@@ -119,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ForLoop" />
+      <module name="Project1.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectClass.ListPerson" />
       <module name="Project1.1" />
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.ListPerson" />
         <item itemvalue="Application.DemoOperacion" />
         <item itemvalue="Application.Calcul" />
         <item itemvalue="Application.Company" />
-        <item itemvalue="Application.AppPersons" />
       </list>
     </recent_temporary>
   </component>
