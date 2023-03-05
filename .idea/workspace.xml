@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,20 @@
       <recent name="poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringMain">
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Arrays" />
+      <module name="Project1.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.CocheMain" />
       <module name="Project1.1" />
@@ -124,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="switchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.switchCase" />
-      <module name="Project1.1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="poo.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.StringMain" />
         <item itemvalue="Application.InterfacesMain" />
         <item itemvalue="Application.PolimorfismoMain" />
         <item itemvalue="Application.CocheMain" />
-        <item itemvalue="Application.switchCase" />
       </list>
     </recent_temporary>
   </component>
