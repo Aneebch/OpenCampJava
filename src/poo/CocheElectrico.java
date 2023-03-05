@@ -12,6 +12,12 @@ public class CocheElectrico extends Coche {
         this.motorElectrico = motorElectrico;
     }
 
+    public CocheElectrico(String color,String fabricante,Double peso,String modelo,Double largo, String motorElectrico){
+        super(color,fabricante,peso,modelo,largo);
+        this.motorElectrico = motorElectrico;
+
+    }
+
     @Override
     public String toString() {
         return "CocheElectrico{" +

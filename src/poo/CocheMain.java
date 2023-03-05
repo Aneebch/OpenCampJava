@@ -16,11 +16,16 @@ public class CocheMain {
         System.out.println(cocheObj1);
 
         CocheElectrico cocheElectrico = new CocheElectrico();
-        cocheElectrico.motorElectrico = "Ejemplo motor";
         cocheElectrico.color = "verde";
         cocheElectrico.fabricante = "civic";
         cocheElectrico.modelo = "2015";
+        cocheElectrico.motorElectrico = "Ejemplo motor";
 
         System.out.println(cocheElectrico);
+
+
+        CocheElectrico cocheElectrico1 = new CocheElectrico("azul", "alfa", 150.45, "2015",4.99,"Tx9");
+
+        System.out.println(cocheElectrico1);
     }
 }
