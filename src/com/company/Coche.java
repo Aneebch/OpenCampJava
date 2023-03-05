@@ -8,9 +8,12 @@ public class Coche {
     Double peso;
     String modelo;
     Double largo;
-    Integer velocidad;
+    Integer velocidad = 0;
 
     //constructors
+    public Coche(){
+
+    }
     public Coche(String color,String fabricante,Double peso,String modelo,Double largo) {
         this.color = color;
         this.fabricante = fabricante;
