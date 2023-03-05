@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b9e4da-3c8f-45ec-9f18-7127692fb38b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/CocheElectrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/CocheElectrico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo/CocheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/CocheMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/PolimorfismoMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CocheMain">
+  <component name="RunManager" selected="Application.PolimorfismoMain">
     <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.CocheMain" />
       <module name="Project1.1" />
@@ -93,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectClass.ListPerson" />
+    <configuration name="PolimorfismoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.PolimorfismoMain" />
       <module name="Project1.1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectClass.*" />
+          <option name="PATTERN" value="poo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolimorfismoMain" />
         <item itemvalue="Application.CocheMain" />
         <item itemvalue="Application.switchCase" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.ListPerson" />
       </list>
     </recent_temporary>
   </component>
@@ -195,11 +193,6 @@
           <url>file://$PROJECT_DIR$/src/estructureControl/doLoop.java</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/poo/CocheElectrico.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
