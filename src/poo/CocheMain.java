@@ -1,4 +1,4 @@
-package com.company;
+package poo;
 
 public class CocheMain {
 
@@ -14,5 +14,13 @@ public class CocheMain {
 
         cocheObj1.peso = 1420.45;
         System.out.println(cocheObj1);
+
+        CocheElectrico cocheElectrico = new CocheElectrico();
+        cocheElectrico.motorElectrico = "Ejemplo motor";
+        cocheElectrico.color = "verde";
+        cocheElectrico.fabricante = "civic";
+        cocheElectrico.modelo = "2015";
+
+        System.out.println(cocheElectrico);
     }
 }

@@ -1,4 +1,4 @@
-package com.company;
+package poo;
 
 public class Coche {
 
